@@ -3,13 +3,11 @@
 This repository contains scripts used in the analysis of the manuscript: ***Single cell spatiotemporal landscape reveals distinct fibroblast-immune niches leading to skin regeneration or fibrotic wound healing***
 
 ## Accessions
-STOmics DB: https://dbrc.cngb.org/stomics/firsstar/[https://dbrc.cngb.org/stomics/firsstar/]
+STOmics DB: https://dbrc.cngb.org/stomics/firsstar
 
-CNSA-Project: https://db.cngb.org/search/project/CNP0006205/[https://db.cngb.org/search/project/CNP0006205/]
+CNSA-Project: https://db.cngb.org/search/project/CNP0006205
 
-Github: https://github.com/BGI-DEV-REG/FIRSSTAR[https://github.com/BGI-DEV-REG/FIRSSTAR]
-
-Zenodo: (Link)
+Github: https://github.com/BGI-DEV-REG/FIRSSTAR
 
 ## Citation Information
 If you use content from this database in your research or project, please cite the following article:
