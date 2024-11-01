@@ -1,6 +1,6 @@
 # FIRSSTAR: Full-thickness Injury Regeneration and Scaring Spatiotemporal Transcriptomics Atlas in Rats
 ![](static/cover241016.jpg)
-This repository contains scripts used in the analysis of the manuscript: ***Single cell spatiotemporal landscape reveals distinct fibroblast-immune niches leading to skin regeneration or fibrotic wound healing***
+This repository contains scripts used in the analysis of the manuscript: ***Single cell spatiotemporal atlas reveals distinct skin scarless or fibrotic repair niches***
 
 ## Accessions
 STOmics DB: https://dbrc.cngb.org/stomics/firsstar
