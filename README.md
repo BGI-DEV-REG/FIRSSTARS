@@ -1,4 +1,4 @@
-# FIRSSTARS: Full-thickness Injury Regeneration and Scaring Spatiotemporal Transcriptomics Atlas in Rats' Skin
+# FIRSSTARS: Full-thickness Injury Regeneration and Scarring Spatiotemporal Transcriptomics Atlas in Rats' Skin
 ![](static/cover241016.jpg)
 This repository contains scripts used in the analysis of the manuscript: ***Single cell spatiotemporal atlas reveals distinct skin scarless or fibrotic repair niches***
 
