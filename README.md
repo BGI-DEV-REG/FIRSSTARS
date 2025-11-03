@@ -3,7 +3,7 @@
 This repository contains scripts used in the analysis of the manuscript: ***Single cell spatiotemporal atlas reveals distinct skin scarless or fibrotic repair niches***
 
 ## Accessions
-STOmics DB: https://db.cngb.org/stomics/firsstar
+STOmics DB: https://db.cngb.org/stomics/firsstars
 
 CNSA-Project: https://db.cngb.org/search/project/CNP0006205
 
